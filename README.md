@@ -1,4 +1,4 @@
-# AFL++ Simple Lab (versión ligera)
+# AFL++ Simple Lab
 
 Repositorio para la tarea colaborativa del Módulo 6.
 Incluye 4 archivos: README.md, AFL_cheatsheet.md, vuln.c y run_fuzz.sh.
@@ -11,7 +11,7 @@ Enseñar de forma sencilla el flujo básico de fuzzing con AFL++ sobre un progra
 - `run_fuzz.sh`: script simple para compilar y lanzar `afl-fuzz` (requiere afl++ instalado).
 - `AFL_cheatsheet.md`: comandos y pasos rápidos.
 
-## Cómo usar (rápido)
+## Cómo usar
 1. Copia el repositorio en tu máquina Linux.
 2. Asegúrate de tener `afl-fuzz` (AFL++) instalado o `afl-clang-fast`.
 3. Compila y lanza el fuzz con el script:
